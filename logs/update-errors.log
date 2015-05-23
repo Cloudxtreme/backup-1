@@ -1,0 +1,7 @@
+[2015/05/22 19:00:54 -0400] update.php(12705): ====== Schema update 137 -> 138 ==============
+[2015/05/22 19:00:54 -0400] update.php(12705): Query: ALTER TABLE `sensors` ADD `entPhysicalIndex_measured` varchar(16) COLLATE utf8_unicode_ci DEFAULT NULL AFTER `sensor_custom_limit`;
+[2015/05/22 19:00:54 -0400] update.php(12705): Error: Duplicate column name 'entPhysicalIndex_measured'
+[2015/05/22 19:00:54 -0400] update.php(12705): Query: ALTER TABLE `sensors` ADD `measured_class` VARCHAR( 32 ) NULL DEFAULT NULL AFTER  `entPhysicalIndex_measured`;
+[2015/05/22 19:00:54 -0400] update.php(12705): Error: Duplicate column name 'measured_class'
+[2015/05/22 19:00:54 -0400] update.php(12705): Query: ALTER TABLE `sensors` ADD  `measured_entity` VARCHAR( 32 ) NULL DEFAULT NULL AFTER  `measured_class`;
+[2015/05/22 19:00:54 -0400] update.php(12705): Error: Duplicate column name 'measured_entity'

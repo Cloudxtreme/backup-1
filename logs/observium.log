@@ -1,0 +1,9 @@
+[2015/05/22 20:02:38 -0400] discovery.php(14063): ./discovery.php: all - 1 devices discovered in 2.912 secs
+[2015/05/22 20:02:43 -0400] poller.php(14224): ./poller.php: all - 1 devices polled in 3.291 secs
+[2015/05/22 20:10:50 -0400] discovery.php(17484): ./discovery.php: all - 1 devices discovered in 2.851 secs
+[2015/05/22 20:10:56 -0400] poller.php(17623): ./poller.php: all - 1 devices polled in 5.593 secs
+[2015/05/22 20:11:07 -0400] poller.php(17821): ./poller.php: all - 1 devices polled in 1.395 secs
+[2015/05/22 20:12:36 -0400] discovery.php(18061): ./discovery.php: all - 1 devices discovered in 2.722 secs
+[2015/05/22 20:12:45 -0400] poller.php(18194): ./poller.php: all - 1 devices polled in 4.927 secs
+[2015/05/22 20:15:41 -0400] discovery.php(18509): ./discovery.php: all - 1 devices discovered in 2.631 secs
+[2015/05/22 20:15:49 -0400] poller.php(18642): ./poller.php: all - 1 devices polled in 3.619 secs
